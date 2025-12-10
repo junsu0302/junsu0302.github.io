@@ -9,14 +9,14 @@ theme: jekyll-theme-chirpy
 lang: en
 
 # Change to your timezone › https://zones.arilyn.cc
-timezone:
+timezone: Asia/Seoul
 
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
 title: Kim Junsu # the main title
 
-tagline: 끊임없는 데이터 실험과 정량적 분석으로, 불확실성을 넘어 최적의 의사결정을 증명합니다! # it will display as the subtitle
+tagline: 끊임없는 데이터 실험과 분석으로, 불확실성을 넘어 최적의 의사결정을 증명합니다! # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
   A minimal, responsive and feature-rich Jekyll theme for technical writing.
@@ -29,12 +29,12 @@ github:
   username: junsu0302 # change to your GitHub username
 
 twitter:
-  username: twitter_username # change to your Twitter username
+  username: junsu0302 # change to your Twitter username
 
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
-  name: your_full_name
+  name: junsu0302
   email: example@domain.com # change to your email address
   links:
     # The first element serves as the copyright owner's link
