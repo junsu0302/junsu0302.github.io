@@ -1,5 +1,6 @@
 ---
 title: "[Docker] 01-Docker 시작하기"
+date: 2025-12-11
 categories: [DevOps, Container]
 tags: [DevOps, Container, Docker]
 ---
