@@ -1,6 +1,6 @@
 ---
 title: "[Docker] 03-Docker Image 만들기"
-date: 2025-12-30 16:10:00
+date: 2025-12-30 16:10:00 +0900
 categories: [DevOps, Container]
 tags: [DevOps, Container, Docker]
 ---
