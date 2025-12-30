@@ -1,5 +1,6 @@
 ---
 title: "[Docker] 02-Docker Container 사용하기"
+date: 2025-12-12
 categories: [DevOps, Container]
 tags: [DevOps, Container, Docker]
 ---
