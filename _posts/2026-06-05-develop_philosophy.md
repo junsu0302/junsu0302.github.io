@@ -40,6 +40,9 @@ tags: [Philosophy, SOLID, Readability, Scalability]
 # 참고자료 (References)
 
 [1] Martin Fowler. (2020). *리팩토링 : 코드 구조를 체계적으로 개선하여 효율적인 리팩토링 구현하기*
+
 [2] Titus Winters. (2022). *구글 엔지니어는 이렇게 일한다 : 구글러가 전달하는 문화, 프로세스, 도구의 모든 것*
+
 [3] Martin, Robert C. (2013). *클린코드: 애자일 소프트웨어 장인 정신*
+
 [4] Martin, Robert C. (2019). *클린 아키텍쳐: 소프트웨어 구조와 설계의 원칙*
