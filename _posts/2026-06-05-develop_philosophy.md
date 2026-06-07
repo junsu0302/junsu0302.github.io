@@ -4,7 +4,7 @@ categories: [Engineering, Philosophy]
 tags: [Philosophy, SOLID, Readability, Scalability]
 ---
 
-#지속 가능한 서비스를 위한 개발 철학 (Development Philosophy)
+# 지속 가능한 서비스를 위한 개발 철학 (Development Philosophy)
 
 ## 1. 서론 (Introduction)
 
