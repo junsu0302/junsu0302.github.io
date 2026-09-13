@@ -11,7 +11,7 @@ tags: [AssetMind, Data Pipeline, Silver, Reader, Transformer, Builder, Loader]
 
 > **해결** : 스키마 강제화 분리(Strict Data Contract), `trade_date` 인덱스 승격 후 Pandas C-엔진 기반 `pd.concat(axis=1)` 1-Shot 병합 및 `{job_id}_{col}` 네임스페이스 격리, PyArrow Zstd 하이브 파티셔닝 적재 파이프라인을 구축함.
 
-> **결과** : 순차 조인 대비 배치 완결 시간을 약 41.7% 단축함(12.0s → 7.0s). PyArrow Zstd 컬럼형 압축을 통해 비압축 원본 대비 데이터 용량을 약 55% 감축(일별 695.7 KiB, 10년 8개월 백필 총 3.7 GiB)하고, 다운스트림 파일 조회 I/O를 99.5% 절감(189회 → 1회)하여 운영 간 100% 무장애 정합성을 달성함.
+> **결과** : 순차 조인 대비 `배치 완결 시간을 약 41.7% 단축함(12.0s → 7.0s)`. PyArrow Zstd 컬럼형 압축을 통해 비압축 원본 대비 `데이터 용량을 약 55% 감축(일별 695.7 KiB, 10년 8개월 백필 총 3.7 GiB)`하고, 다운스트림 `파일 조회 I/O를 99.5% 절감(189회 → 1회)`하여 운영 간 `100% 무장애 정합성`을 달성함.
 ---
 
 ## 1. 문제 배경 및 목적 (Context & Problem)
