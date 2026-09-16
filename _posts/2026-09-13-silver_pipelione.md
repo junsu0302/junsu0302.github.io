@@ -1,5 +1,5 @@
 ---
-title: "[DataPipeline] Silver Pipeline: 189개 시계열 지표의 와이드 테이블 합성 및 고속 Parquet 파이프라인"
+title: "[DataPipeline] Silver Pipeline 189개 시계열 지표의 와이드 테이블 합성 및 고속 Parquet 파이프라인"
 categories: [Engineering, AssetMind]
 tags: [AssetMind, Data Pipeline, Silver, Reader, Transformer, Builder, Loader]
 ---
