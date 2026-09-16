@@ -1,5 +1,5 @@
 ---
-title: "[DataPipeline] Bronze Pipeline: 이종 금융·거시경제 API 189개 지표의 비동기 수집 최적화"
+title: "[DataPipeline] Bronze Pipeline 이종 금융·거시경제 API 189개 지표의 비동기 수집 최적화"
 categories: [Engineering, AssetMind]
 tags: [AssetMind, Data Pipeline, Bronze, Extractor, aiohttp, Concurrency]
 ---
