@@ -1,5 +1,5 @@
 ---
-title: "[DataPipeline] Gold Pipeline: 결측치·이상치 다형성 전처리를 통한 18종 실험 환경 구축"
+title: "[DataPipeline] Gold Pipeline 결측치·이상치 다형성 전처리를 통한 18종 실험 환경 구축"
 categories: [Engineering, AssetMind]
 tags: [AssetMind, Data Pipeline, Gold, Reader, Preprocessor, Loader]
 ---
